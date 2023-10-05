@@ -1,6 +1,7 @@
 # ShellScript
 Depth knowledge on Shell Script.
-      #!/bin/bash: Shebang line specifying the shell to use for running the script.
+         
+     #!/bin/bash: Shebang line specifying the shell to use for running the script.
 
     #: Denotes comments in the script, providing explanations and documentation.
 
