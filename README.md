@@ -1,6 +1,6 @@
 # ShellScript
 Depth knowledge on Shell Script.
-for create use touch,nano file_name.sh
+       For create use touch,nano file_name.sh
          
      #!/bin/bash: Shebang line specifying the shell to use for running the script.
 
@@ -24,7 +24,7 @@ for create use touch,nano file_name.sh
 
     break: Exits a loop prematurely when a certain condition is met.
 
-for exicution after write the code
+For exicution after write the code
 press:ctrl+x
 press:y
 cheak the file name if don't want to change
