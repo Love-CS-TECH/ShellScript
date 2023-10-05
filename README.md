@@ -22,3 +22,11 @@ Depth knowledge on Shell Script.
     true and false: Boolean values used to control program logic, for instance in conditionals.
 
     break: Exits a loop prematurely when a certain condition is met.
+
+for exicution after write the code
+press:ctrl+x
+press:y
+cheak the file name if don't want to change
+press:enter
+type:chmod +x file_name.sh
+type:./file_name.sh 
