@@ -1,5 +1,6 @@
 # ShellScript
 Depth knowledge on Shell Script.
+for create use touch,nano file_name.sh
          
      #!/bin/bash: Shebang line specifying the shell to use for running the script.
 
