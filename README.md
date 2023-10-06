@@ -30,5 +30,5 @@ press:ctrl+x
 press:y
 cheak the file name if don't want to change
 press:enter
-type:chmod +x file_name.sh
+type:chmod +x file_name.sh(for give permission)
 type:./file_name.sh 
